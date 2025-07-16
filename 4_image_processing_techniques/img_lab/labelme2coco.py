@@ -177,7 +177,7 @@ def main():
                     iscrowd=0,
                 )
             )
-
+ 
         if not args.noviz:
             viz = img
             if masks:
